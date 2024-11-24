@@ -1,0 +1,55 @@
+/* ADD YOUR CUSTOM CSS BELOW OR EDIT THE EXISTING VALUES */
+
+
+.bg-dark {
+  background-color: #AD9C65;
+}
+
+header, footer {
+  background-color: #F1F1E5;
+  color: #AD9C65;
+}
+
+
+
+.gold-bg {
+  background-color: #CFC3B5;
+}
+
+footer {
+	background-color: #F1F1E5;
+}
+
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+H1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/* ================================ */
+/* DO NOT EDIT BELOW THIS LINE */
+/* ================================ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 100px 20px;
+}
+
+footer { 
+  padding: 0 20px;
+}
